@@ -1,2 +1,5 @@
-# 2024-03-FACTIA
-Proyecto FACTIA INECO - Eyetracking depuración y análisis
+# Proyecto EHIS cardiovascular
+
+Análisis de inequidades en salud cardiovascular en población europea utilizando datos EHIS Wave 3.
+
+(README completo en el repositorio).
